@@ -1,0 +1,4 @@
+google-generativeai
+ipywidgets
+python-dotenv
+voila
